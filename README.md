@@ -1,8 +1,7 @@
 # Quicksilver Moonwalker Gold
-Lightroom preset to emulate Quicksilver's Moonwalker sunglasses.
-It works best with sunlit environments.
-
 ![Alt text](previews/sunglasses.jpg?raw=true "Quicksilver Moonwalker Gold")
+Lightroom preset to emulate Quicksilver's Moonwalker sunglasses.  
+It works best with sunlit environments.
 
 ## Previews of before and after
 
