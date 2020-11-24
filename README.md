@@ -1,2 +1,2 @@
-# quicksilver-lightroom-preset
-Lightroom preset to emulate Quicksilver's Moonlight Walker sunglasses.
+# Quicksilver Moonwalker Gold
+Lightroom preset to emulate Quicksilver's Moonwalker sunglasses.
