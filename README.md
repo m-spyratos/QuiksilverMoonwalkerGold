@@ -14,5 +14,3 @@ It works best with sunlit environments.
 ![Alt text](previews/02.jpg?raw=true "City")
 
 ![Alt text](previews/05.jpg?raw=true "Boat")
-
-![Alt text](previews/06.jpg?raw=true "Puppy")
