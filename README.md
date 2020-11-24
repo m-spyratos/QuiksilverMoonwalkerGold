@@ -1,6 +1,6 @@
 # Moonwalker Lightroom Preset
-![Alt text](previews/sunglasses.jpg?raw=true "Quicksilver Moonwalker Gold")
-Lightroom preset to emulate Quicksilver's Moonwalker Gold sunglasses.  
+![Alt text](previews/sunglasses.jpg?raw=true "Quicksilver Moonwalker")
+Lightroom preset to emulate Quicksilver's Moonwalker blk-gold sunglasses.  
 It works best with sunlit environments.
 
 ## Previews of before and after
